@@ -1,5 +1,5 @@
 # Sarah-HAMITOUCHE
-(./banniere.jpg)
+!Texte alternatif(./banniere.jpg)
 <h1 align="center">Hi 👋, I'm Sarah HAMITOUCHE</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 <img class="photo" src="![58e6ea3bf241bc66143291f8d34059c2](https://github.com/user-attachments/assets/8b9fef95-4568-493d-b53c-aeb486d81bab)">

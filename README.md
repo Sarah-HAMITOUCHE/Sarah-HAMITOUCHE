@@ -1,4 +1,6 @@
 # Sarah-HAMITOUCHE
+
+![img](banniere.jpg)
 <h1 align="center">Hi 👋, I'm Sarah HAMITOUCHE</h1>
 
 <h3 align="center">A passionate frontend developer from France</h3>

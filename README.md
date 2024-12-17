@@ -7,9 +7,9 @@
 <img class="photo" src="![58e6ea3bf241bc66143291f8d34059c2](https://github.com/user-attachments/assets/8b9fef95-4568-493d-b53c-aeb486d81bab)">
 
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python, javascript**
 
-- 🌱 I’m currently learning **python, javascript and photoshop**
+- 🌱 I’m currently learning **python, javascript, php and photoshop**
 
 - 🤝 I’m looking for help with **the teachers**
 
@@ -22,7 +22,7 @@
 - ⚡ Fun fact **i love art**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><img src="![OIP (8)](https://github.com/user-attachments/assets/36ad9d72-e064-449e-bd36-cd179fad46e3)">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

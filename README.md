@@ -12,7 +12,7 @@
 💻 Specialized in both **front-end** and **back-end** technologies, I'm eager to apply my skills through an internship.  
 🚀 Always looking for new, exciting projects to learn and grow.
 
-![img](photos.jpg)
+![img](code_enhanced.jpg)
 
 - 🌱 I’m currently learning **python, javascript, php and photoshop**
 

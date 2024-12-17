@@ -29,7 +29,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KJcLsv74SGERf_iwtnBAKCM3xiZ_hQhv/view?usp=drive_link](https://drive.google.com/file/d/1KJcLsv74SGERf_iwtnBAKCM3xiZ_hQhv/view?usp=drive_link)
 - "Code is poetry for computers" 💡
 
-![img](f9f3c623eb6dc5c84f67080b7eedc7f5.jpg)
+
 - ⚡ Fun fact **i love art and i sometimes play piano**
 
 <h3 align="left">Connect with me:</h3>

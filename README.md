@@ -13,6 +13,7 @@
 🚀 Always looking for new, exciting projects to learn and grow.
 
 ![img](photos.jpg)
+
 - 🔭 I’m currently working on **Python, javascript**
 
 - 🌱 I’m currently learning **python, javascript, php and photoshop**

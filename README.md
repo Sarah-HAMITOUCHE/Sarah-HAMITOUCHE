@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **python, javascript, php and photoshop
 
-![img](b629e0c49b0a480354587f98f1c2d098.jpg)
+
 - **Tools**: Git, GitHub, VS Code
 
 - 🤝 I’m looking for help with **the teachers**

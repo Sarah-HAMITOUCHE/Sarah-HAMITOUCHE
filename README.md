@@ -7,12 +7,12 @@
 <img class="photo" src="![58e6ea3bf241bc66143291f8d34059c2](https://github.com/user-attachments/assets/8b9fef95-4568-493d-b53c-aeb486d81bab)">
 
 
-![img](photos.jpg)
+
 🎓 A student at **La Plateforme school**, passionate about web development and creation.  
 💻 Specialized in both **front-end** and **back-end** technologies, I'm eager to apply my skills through an internship.  
 🚀 Always looking for new, exciting projects to learn and grow.
 
-
+![img](photos.jpg)
 - 🔭 I’m currently working on **Python, javascript**
 
 - 🌱 I’m currently learning **python, javascript, php and photoshop**

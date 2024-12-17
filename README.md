@@ -14,8 +14,10 @@
 
 ![img](photos.jpg)
 
-- 🌱 I’m currently learning **python, javascript, php and photoshop
+- 🌱 I’m currently learning **python, javascript, php and photoshop**
+
 ![img](python.jpg)
+
 - **Tools**: Git, GitHub, VS Code
 
 - 🤝 I’m looking for help with **the teachers**
